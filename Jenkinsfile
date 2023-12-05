@@ -22,4 +22,4 @@ pipeline {
             bat 'serve -s -l 3000 build'
         }
     }  
-}
+} 
